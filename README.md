@@ -1,4 +1,4 @@
-# Hi there หวัดดีครับ
+# Hi there 
 <h1 align="center">Hi 👋, I'm Kiattiyot</h1>
 <h3 align="center">Im just learning</h3>
 
