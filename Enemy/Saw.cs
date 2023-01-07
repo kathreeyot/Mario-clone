@@ -4,7 +4,7 @@ public class Saw : MonoBehaviour
 {
 
     //โค๊ด enemy เคลื่อนที่ในเเนวเเกนx//
-   
+    
    //ปรับspeed  ความเร็ว//
     public float speed = 2;
    
