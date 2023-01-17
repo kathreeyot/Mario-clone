@@ -8,4 +8,4 @@
 
 - ⚡ Fun fact **i copy code so much⚡⚡**
 
-- 🌱 I’m currently learning **C#,Nodejs,Flutter,Java,react native**
+- 🌱 I’m currently learning **C#,Dart(flutter),react native**
