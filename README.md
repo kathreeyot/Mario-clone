@@ -8,4 +8,4 @@
 
 - ⚡ Fun fact **i copy code so much⚡⚡**
 
-- 🌱 I’m currently learning **C#(Unity),Dart(flutter)**
+- 🌱 I’m currently learning **C#(Unity)**
