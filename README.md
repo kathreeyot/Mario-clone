@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **kathreeyot@gmail.com**
 
-- ⚡ Fun fact **i copy code so much⚡⚡**
+- ⚡ **Thank for reading**
 
-- 🌱 I’m currently learning **C#(Unity)**
+- 🌱This project use **C#(Unity)**
+
+- 🌱 this project is completed
